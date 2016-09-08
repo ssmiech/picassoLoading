@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImageLoading</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="high_res_high_res_concurrent">2HC</string>
+    <string name="one_high_res">HighRes</string>
+    <string name="low_res_high_res_concurrent">Low+High_C</string>
+    <string name="low_res_high_res_chained"><![CDATA[Low -> High]]></string>
+</resources>

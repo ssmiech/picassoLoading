@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.sqs.imageloading.MainActivity">
+    <item
+        android:id="@+id/high_res_high_res_concurrent"
+        android:orderInCategory="100"
+        android:title="@string/high_res_high_res_concurrent"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/one_high_res"
+        android:orderInCategory="100"
+        android:title="@string/one_high_res"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/low_res_high_res_concurrent"
+        android:orderInCategory="100"
+        android:title="@string/low_res_high_res_concurrent"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/low_res_high_res_chained"
+        android:orderInCategory="100"
+        android:title="@string/low_res_high_res_chained"
+        app:showAsAction="never" />
+</menu>
